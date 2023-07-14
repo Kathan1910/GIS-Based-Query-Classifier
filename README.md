@@ -98,4 +98,3 @@ Predicts the query classifications using a web app created with Streamlit.
 8. Utilize ensemble methods to improve model performance.
 9. Use the provided web app to make predictions based on user input.
 
-For more detailed instructions and usage examples, please refer to the [Query Classifier PowerPoint Presentation](Query_Classifier.pptx)
